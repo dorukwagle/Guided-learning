@@ -12,6 +12,8 @@ integer division is performed, the fractional part is discarded.
 
 public class Project6 {
     public static void main(String[] args) {
+        //gear size in meter
+        float gearSize = 100 * 0.025f;
         
     }
 }
